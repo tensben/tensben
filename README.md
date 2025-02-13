@@ -8,9 +8,10 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/tensben/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/tensben/configure-ad)
-  - [DNS](https://github.com/tensben/dns)
-  - [Network Files Shares and Permissions](https://github.com/tensben/network-files)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/tensben/azure-network-protocols)
+  - [Network Files Shares and Permissions](https://github.com/tensben/network-files)
+- <b>Analyze DNS</b>
+   - [Examine A-Records, CNAMEs, and Local DNS Cache](https://github.com/tensben/dns)
 
 <h2>🤳Connect with me:</h2>
 
