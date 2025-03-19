@@ -21,4 +21,4 @@
 
 [twitter]: https://twitter.com
 [instagram]: https://www.instagram.com
-[linkedin]: www.linkedin.com/in/teneka-benjamin-b3735b356
+[linkedin]: https://www.linkedin.com/in/teneka-benjamin
